@@ -44,4 +44,9 @@ theming-kit.html/
 
 ## Deploy on Github
 
+Check it out [here](https://trannham.github.io/sass-bootstrap-portfolio/).
+
 ## Screenshot
+
+![](images/screenshot1.png)
+![](images/screenshot2.png)
